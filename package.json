@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/d093w1z/gdsc-solutions-challenge-2023/issues"
   },
-  "homepage": "https://github.com/d093w1z/gdsc-solutions-challenge-2023#readme"
+  "homepage": "https://github.com/d093w1z/gdsc-solutions-challenge-2023#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
