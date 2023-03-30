@@ -8,7 +8,7 @@ const userRoute = require("./api/routes/users");
 const app = express();
 
 mongoose
-  .connect(process.env.MONGO_ATLAS_URL)
+  .connect(process.env.MONGO_LOCAL_URL)
   .then(() => console.log("Database Connected"))
   .catch((e) => console.log(e));
 
