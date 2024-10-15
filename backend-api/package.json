@@ -24,8 +24,8 @@
   "homepage": "https://github.com/d093w1z/gdsc-solutions-challenge-2023#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
-    "body-parser": "^1.20.2",
-    "express": "^4.18.2",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
     "mongoose": "^7.0.3",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.22"
